@@ -47,7 +47,8 @@
 div{
     border: solid black ;
     background-color: lightpink;
-    height: 500px;
+    height: auto;
+    width: auto;
 }
 
 
