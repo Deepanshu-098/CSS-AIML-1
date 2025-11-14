@@ -1,0 +1,53 @@
+/* div{
+    word-spacing:6px;
+    border: solid black; 
+    height: 380px;
+    width: 1250px;
+    margin: 100px
+    
+   
+   
+}
+.p{
+    background-color: skyblue;
+    padding: 50px;
+
+}
+.q{
+    background-color: lightgreen;
+    padding: 30px;
+
+} */
+
+/* div{
+
+    border: solid black; 
+    height: 380px;
+    width: 1250px;
+    margin: 100px
+}
+.a{
+    display: inline-block;
+    background-color: yellow;
+    text-align: center;
+}
+
+.b{
+    display: inline-block;
+    background-color: palevioletred;
+    text-align: center;
+}
+.c{
+    display: inline-block;
+    background-color: skyblue;
+    text-align: center;
+} */
+
+
+div{
+    border: solid black ;
+    background-color: lightpink;
+    height: 500px;
+}
+
+

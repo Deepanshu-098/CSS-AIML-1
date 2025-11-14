@@ -1,9 +1,15 @@
-div{
+.container{
+    text-align: center;
    display: inline-block;
    vertical-align: top; 
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+    height: auto;
+    width: auto;
 }
-p{
-     height: 200px;
+.box1{
+    height: 200px;
     width: 200px;
     display: inline-block;
     color: pink;
@@ -13,11 +19,11 @@ p{
     margin: 20px;
     text-align: center;
 }
-.a{
+.box2{
     height: 200px;
     width: 200px;
     display: inline-block;
-    color: antiquewhite;
+    color: blueviolet;
     background-color: palegreen;
     padding: 20px;
     border: 1px solid black;
@@ -25,23 +31,12 @@ p{
     text-align: center;
 }
 
-.b{
+.box3{
     height: 200px;
     width: 200px;
     display: inline-block;
     color: brown;
     background-color: beige;
-    padding: 20px;
-    border: 1px solid black;
-    margin: 20px;
-    text-align: center;
-}
-.c{
-    height: 200px;
-    width: 200px;
-    display: inline-block;
-    color: tomato;
-    background-color: rgb(246, 153, 48);
     padding: 20px;
     border: 1px solid black;
     margin: 20px;
