@@ -1,7 +1,7 @@
 .container{
    display: flex;
-   flex-direction: column-reverse;
-   flex-wrap: wrap-reverse;
+   /* flex-direction: column-reverse;.     (for row use row-reverse) */
+   /* flex-wrap: wrap-reverse; .         (for wrap use wrap) */
     border: 2px solid black;
    height: auto;
     width: auto;
